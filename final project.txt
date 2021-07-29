@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+<title>Final Project</title>
+</head>
+<body>
+<h1>Huzaifa</h1>
+<a href="https://www.one.com">one</a>
+<a href="https://www.twoo.com">two</a>
+<a href="www.three.co.uk">three</a>
+<a href="https://www.your-choice.uk.com">your choice</a>
+<br>
+<div id="fav-food">
+<h3>Favorite Foods</h3>
+<ul>
+<li>Burger</li>
+<li>Pizza</li>
+<li>Ice cream</li>
+<li>Chocolate cake</li>
+</ul>
+</div>
+<div id="achieve">
+<h3>Achievements</h3>
+<p>Progress in this course (100%) <meter min="0" max="100" value="100"></meter><br>
+Progress in the Specialization capstone (20%) <meter min="0" max="100" value="20"></meter><br>
+Progress in life goals (67%) <meter min="0" max="100" value="67"></meter><br>
+</p>
+</div>
+<div id="more-abt-me">
+<h3>More About Me</h3>
+</div>
+<details>
+<summary>My Childhood</summary>
+<p>I grew up in Karachi. I lived near baitul mukarram masjid really miss the old gulshan</p>
+</details>
+<figure>
+<img src="https://www.intro-webdesign.com/images/newlogo.png" alt="loading" >
+<p>This page was created by Huzaifa & Hamza. To learn more about <br> web design, visit <a  href="https://www.intro-webdesign.com/">Intro to web design</a></p>
+</figure>
+<br>
+<a href="#fav-food">Favourite Food</a>
+<a href ="#achieve">Achievements</a>
+<a href ="#more-abt-me">More About Me</a>
+</body>
+</html>
